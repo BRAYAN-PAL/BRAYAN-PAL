@@ -1,107 +1,109 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">¡Hola! 👋, soy Brayan</h1></summary>
+  </ul>
+</div>
+
+<h3 align="left">Desarrollador Full Stack · Inteligencia Artificial · Automatización</h3>
+
+<!--About Me-->
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> Sobre mí
+
+<picture><img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture>
+
+- 🎓 Estudiante de **Ingeniería de Sistemas**, enfocado en desarrollo de software, IA y computación en la nube.
+- 🚀 Fundador de **ABNIEX**, donde desarrollo sitios web, sistemas empresariales, APIs y soluciones impulsadas por IA.
+- 💡 Me apasiona crear **soluciones tecnológicas y herramientas de automatización** que resuelvan problemas reales.
+- 🌱 Aprendiendo actualmente: `Arquitectura de Software`, `Diseño de Sistemas` **&** `Cloud Computing`.
+- 📫 Contáctame [![Send me Email](https://img.shields.io/static/v1?label=email&message=Brayan&color=EA4335&style=flat-square)](mailto:brayanyoelverdemontesinos@gmail.com)
+- 🤝 Siempre abierto a colaborar en proyectos desafiantes.
+
+<br>
+
+## 🛠️ Mis Habilidades
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="20px"></picture> Lenguajes de programación
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="20px"></picture> Frontend Development
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="20px"></picture> Backend & Bases de Datos
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white)
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="20px"></picture> Software & Herramientas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="20px"></picture> IDEs
+
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+
+<br>
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"></picture> Estadísticas de GitHub
+
+<p align="left">
+<table align="left">
+<tr border="none">
+<td width="50%" align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=BRAYAN-PAL&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BRAYAN-PAL&theme=dark&hide_border=false&locale=es" />
+</td>
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BRAYAN-PAL&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+</td>
+</tr>
+</table>
+</p>
+
+<br>
+
+<!--profile visit count-->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="280" align="right"/>
-
-# ¡Hola, soy Brayan! 👋
-
-### Desarrollador Full Stack · Inteligencia Artificial · Automatización
-
-[![GitHub](https://img.shields.io/badge/GitHub-BRAYAN--PAL-181717?style=flat-square&logo=github)](https://github.com/BRAYAN-PAL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-yoel-verde-montesinos-7013ab303)
-[![Email](https://img.shields.io/badge/Email-Escríbeme-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:brayanyoelverdemontesinos@gmail.com)
+[![](https://visitcount.itsvg.in/api?id=BRAYAN-PAL&label=Visitas%20al%20Perfil&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
 
-<br/>
-
-## 👨🏻‍💻 Sobre mí
-
-- 💡 Me apasiona desarrollar **soluciones tecnológicas, aplicaciones web y herramientas de automatización** que resuelvan problemas reales.
-- 🎓 Estudiante de **Ingeniería de Sistemas**, fortaleciendo mis conocimientos en desarrollo de software, IA y computación en la nube.
-- 🚀 Fundador de **ABNIEX**, donde desarrollo sitios web, sistemas empresariales, APIs, automatización y aplicaciones impulsadas por IA.
-- 🌱 Aprendiendo actualmente sobre **Inteligencia Artificial, Arquitectura de Software, Diseño de Sistemas y Cloud Computing**.
-- 🤝 Siempre abierto a colaborar en proyectos desafiantes y oportunidades a largo plazo.
-
-<br/>
-
-## 🚀 Enfoque actual
-
-| Área | Descripción |
-|---|---|
-| 🌐 **Desarrollo Web Full Stack** | Construcción de aplicaciones modernas y escalables |
-| 🤖 **Inteligencia Artificial & ML** | Integración de IA en productos reales |
-| 📊 **Data Science & BI** | Análisis de datos para la toma de decisiones |
-| ⚡ **APIs & Automatización** | Procesos eficientes y sistemas conectados |
-| ☁️ **Cloud & Arquitectura** | Soluciones escalables y bien diseñadas |
-
-<br/>
-
-## 🛠 Stack tecnológico
-
-**Lenguajes**
-
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=openjdk)
-
-**Frameworks & Librerías**
-
-![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=next.js)
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat-square&logo=angular)
-![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat-square&logo=ionic)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=express)
-
-**Bases de datos & Backend**
-
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat-square&logo=microsoftsqlserver)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql)
-![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat-square&logo=supabase)
-
-**Herramientas & DevOps**
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker)
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat-square&logo=unity)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=visual-studio-code)
-
-<br/>
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BRAYAN-PAL&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
-
-## 🤝 Conecta conmigo
-
-<div align="center">
-
-<a href="https://github.com/BRAYAN-PAL">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/brayan-yoel-verde-montesinos-7013ab303">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:brayanyoelverdemontesinos@gmail.com">
-<img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
 ### ⭐ Siempre aprendiendo, siempre creando, siempre mejorando.
 
 </div>
+
+-----------
+
+<p align="center">
+<a href="https://github.com/BRAYAN-PAL"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/brayan-yoel-verde-montesinos-7013ab303"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:brayanyoelverdemontesinos@gmail.com"><img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
