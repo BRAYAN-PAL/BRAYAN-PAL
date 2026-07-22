@@ -38,13 +38,7 @@
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/BRAYAN-PAL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BRAYAN-PAL&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRAYAN-PAL&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BRAYAN-PAL&theme=dark&hide_border=true&locale=es&date_format=n%2Fj%5B%2FY%5D&card_width=494&card_height=200)](https://git.io/streak-stats)
 
 ---
 
