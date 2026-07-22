@@ -6,6 +6,7 @@
     <summary><h1 style="display: inline-block">¡Hola! 👋, soy Brayan</h1></summary>
   </ul>
 </div>
+<img src="https://imgur.com/a/l6Bdra2">
 
 <h3 align="left">Desarrollador Full Stack · Inteligencia Artificial · Automatización</h3>
 
